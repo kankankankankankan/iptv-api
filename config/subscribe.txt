@@ -3,6 +3,8 @@
 https://raw.githubusercontent.com/zwc456baby/iptv_alive/refs/heads/master/live.m3u
 https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u
 https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/cn_cctv.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/cn.m3u
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
