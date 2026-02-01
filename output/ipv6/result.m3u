@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://github.yesageek.com/https://raw.githubusercontent.com/kankankankankankan/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="https://github.yesageek.com/https://kankankankankankan.github.io/live/tv/CCTV-1.png" group-title="🕘️更新时间",2026-02-01 16:08:24
+#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="https://github.yesageek.com/https://kankankankankankan.github.io/live/tv/CCTV-1.png" group-title="🕘️更新时间",2026-02-01 16:46:07
 https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
 #EXTINF:-1 tvg-name="CCTV-5" tvg-logo="https://github.yesageek.com/https://kankankankankankan.github.io/live/tv/CCTV-5.png" group-title="📺央视频道",CCTV-5
 https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
