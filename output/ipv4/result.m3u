@@ -1,47 +1,29 @@
 #EXTM3U x-tvg-url="https://github.yesageek.com/https://raw.githubusercontent.com/kankankankankankan/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="https://github.yesageek.com/https://kankankankankankan.github.io/live/tv/CCTV-1.png" group-title="🕘️更新时间",2026-02-01 16:46:07
+#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="https://github.yesageek.com/https://kankankankankankan.github.io/live/tv/CCTV-1.png" group-title="🕘️更新时间",2026-02-02 19:50:49
 http://23.237.228.134/live5/CCTV1.m3u8
 #EXTINF:-1 tvg-name="CCTV-1" tvg-logo="https://github.yesageek.com/https://kankankankankankan.github.io/live/tv/CCTV-1.png" group-title="📺央视频道",CCTV-1
 http://23.237.228.134/live5/CCTV1.m3u8
+#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="https://github.yesageek.com/https://kankankankankankan.github.io/live/tv/CCTV-1.png" group-title="📺央视频道",CCTV-1
+http://58.57.40.22:9901/tsfile/live/0001_1.m3u8
 #EXTINF:-1 tvg-name="CCTV-2" tvg-logo="https://github.yesageek.com/https://kankankankankankan.github.io/live/tv/CCTV-2.png" group-title="📺央视频道",CCTV-2
 http://23.237.228.134/live5/CCTV2.m3u8
-#EXTINF:-1 tvg-name="CCTV-3" tvg-logo="https://github.yesageek.com/https://kankankankankankan.github.io/live/tv/CCTV-3.png" group-title="📺央视频道",CCTV-3
-http://58.57.40.22:9901/tsfile/live/1002_1.m3u8
-#EXTINF:-1 tvg-name="CCTV-4" tvg-logo="https://github.yesageek.com/https://kankankankankankan.github.io/live/tv/CCTV-4.png" group-title="📺央视频道",CCTV-4
-http://58.57.40.22:9901/tsfile/live/1003_1.m3u8
-#EXTINF:-1 tvg-name="CCTV-5+" tvg-logo="https://github.yesageek.com/https://kankankankankankan.github.io/live/tv/CCTV-5+.png" group-title="📺央视频道",CCTV-5+
-http://58.57.40.22:9901/tsfile/live/1005_1.m3u8
-#EXTINF:-1 tvg-name="CCTV-6" tvg-logo="https://github.yesageek.com/https://kankankankankankan.github.io/live/tv/CCTV-6.png" group-title="📺央视频道",CCTV-6
-http://58.57.40.22:9901/tsfile/live/1006_1.m3u8
+#EXTINF:-1 tvg-name="CCTV-2" tvg-logo="https://github.yesageek.com/https://kankankankankankan.github.io/live/tv/CCTV-2.png" group-title="📺央视频道",CCTV-2
+http://58.57.40.22:9901/tsfile/live/1001_1.m3u8
+#EXTINF:-1 tvg-name="CCTV-5" tvg-logo="https://github.yesageek.com/https://kankankankankankan.github.io/live/tv/CCTV-5.png" group-title="📺央视频道",CCTV-5
+http://58.57.40.22:9901/tsfile/live/1004_1.m3u8
 #EXTINF:-1 tvg-name="CCTV-7" tvg-logo="https://github.yesageek.com/https://kankankankankankan.github.io/live/tv/CCTV-7.png" group-title="📺央视频道",CCTV-7
 http://23.237.228.134/live5/CCTV7.m3u8
-#EXTINF:-1 tvg-name="CCTV-8" tvg-logo="https://github.yesageek.com/https://kankankankankankan.github.io/live/tv/CCTV-8.png" group-title="📺央视频道",CCTV-8
-http://58.57.40.22:9901/tsfile/live/1008_1.m3u8
-#EXTINF:-1 tvg-name="CCTV-9" tvg-logo="https://github.yesageek.com/https://kankankankankankan.github.io/live/tv/CCTV-9.png" group-title="📺央视频道",CCTV-9
-http://58.57.40.22:9901/tsfile/live/1009_1.m3u8
-#EXTINF:-1 tvg-name="CCTV-10" tvg-logo="https://github.yesageek.com/https://kankankankankankan.github.io/live/tv/CCTV-10.png" group-title="📺央视频道",CCTV-10
-http://58.57.40.22:9901/tsfile/live/1010_1.m3u8
-#EXTINF:-1 tvg-name="CCTV-11" tvg-logo="https://github.yesageek.com/https://kankankankankankan.github.io/live/tv/CCTV-11.png" group-title="📺央视频道",CCTV-11
-http://58.57.40.22:9901/tsfile/live/1011_1.m3u8
-#EXTINF:-1 tvg-name="CCTV-12" tvg-logo="https://github.yesageek.com/https://kankankankankankan.github.io/live/tv/CCTV-12.png" group-title="📺央视频道",CCTV-12
-http://58.57.40.22:9901/tsfile/live/1012_1.m3u8
-#EXTINF:-1 tvg-name="CCTV-13" tvg-logo="https://github.yesageek.com/https://kankankankankankan.github.io/live/tv/CCTV-13.png" group-title="📺央视频道",CCTV-13
-http://58.57.40.22:9901/tsfile/live/1013_1.m3u8
-#EXTINF:-1 tvg-name="CCTV-14" tvg-logo="https://github.yesageek.com/https://kankankankankankan.github.io/live/tv/CCTV-14.png" group-title="📺央视频道",CCTV-14
-http://58.57.40.22:9901/tsfile/live/1014_1.m3u8
+#EXTINF:-1 tvg-name="CCTV-7" tvg-logo="https://github.yesageek.com/https://kankankankankankan.github.io/live/tv/CCTV-7.png" group-title="📺央视频道",CCTV-7
+http://58.57.40.22:9901/tsfile/live/1007_1.m3u8
 #EXTINF:-1 tvg-name="CCTV-15" tvg-logo="https://github.yesageek.com/https://kankankankankankan.github.io/live/tv/CCTV-15.png" group-title="📺央视频道",CCTV-15
-http://58.57.40.22:9901/tsfile/live/1015_1.m3u8
+http://120.76.248.139/live/bfgd/4200000133.m3u8
 #EXTINF:-1 tvg-name="CCTV-16" tvg-logo="https://github.yesageek.com/https://kankankankankankan.github.io/live/tv/CCTV-16.png" group-title="📺央视频道",CCTV-16
 http://69.30.246.194/live/cctv16.m3u8
-#EXTINF:-1 tvg-name="CCTV-17" tvg-logo="https://github.yesageek.com/https://kankankankankankan.github.io/live/tv/CCTV-17.png" group-title="📺央视频道",CCTV-17
-http://58.57.40.22:9901/tsfile/live/0019_1.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://github.yesageek.com/https://kankankankankankan.github.io/live/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
 http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://github.yesageek.com/https://kankankankankankan.github.io/live/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
-http://58.57.40.22:9901/tsfile/live/1029_1.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://github.yesageek.com/https://kankankankankankan.github.io/live/tv/湖南卫视.png" group-title="📡卫视频道",湖南卫视
 https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://github.yesageek.com/https://kankankankankankan.github.io/live/tv/北京卫视.png" group-title="📡卫视频道",北京卫视
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1769935212&sign=18f1e3c9fba767b1da1885d94c09ff41
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1770032409&sign=c3af33e200508a58fd82ae2eb1bfc48f
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://github.yesageek.com/https://kankankankankankan.github.io/live/tv/东方卫视.png" group-title="📡卫视频道",东方卫视
 https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
